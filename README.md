@@ -6,7 +6,7 @@ Basically there were a few changes in the prototype which made it a bit better. 
 Changes that can be made are:
   It can have more functionalities of call the health support people in order to know more
   It can have information on relief fund and can be able to contact the team which accepts the funds and explains them how it works
-  It can have the check your temperature facility. 
+  It can have the check your temperature facility
   
   <img width="186" alt="Screen Shot 2021-03-16 at 11 06 54 AM" src="https://user-images.githubusercontent.com/50333170/111337607-9c215a00-864c-11eb-857b-0b1a58da977c.png">
   
